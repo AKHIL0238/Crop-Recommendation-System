@@ -21,31 +21,33 @@ Offers dynamic responses based on AI-generated insights.
 
 Technologies Used:
 ============
--Python
--Flask
--Streamlit
--Scikit-learn
--Hugging Face API for advanced AI-based insights.
--This application is ideal for farmers, agricultural enthusiasts, and researchers looking for data-driven solutions to optimize crop selection and farming practices.
+Python,
+Flask,
+Streamlit,
+Scikit-learn,
+Hugging Face API for advanced AI-based insights.
+This application is ideal for farmers, agricultural enthusiasts, and researchers looking for data-driven solutions to optimize crop selection and farming practices.
 
 Requirements:
 ============
--python
--Install the dependencies in Requirements.txt
+->python
+->Install the dependencies in Requirements.txt
 
 Installation:
 ============
-1.clone the repository
-bash'''
+1.clone the repository:
+'''bash
 git clone https://github.com/AKHIL0238/Crop-Recommendation-System.git
 '''
-2.Install all the dependencies
-bash'''
+2.Install all the dependencies:
+'''bash
 pip install Requirements.txt
 '''
-3.
-bash'''
+3.How to run:
+'''bash
 streamlit run st_app.py
 '''
-
+Note:
+============
+The data which the ML model is trained is based on Arid regions(i.e, areas with a rainfall of 150-300mm)
 
