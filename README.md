@@ -1,14 +1,12 @@
-##Crop Recommendation System 🌱
+Crop Recommendation System 🌱
 ============
 This application provides intelligent recommendations for the most suitable crops to cultivate based on environmental and soil parameters. It leverages machine learning models and data preprocessing techniques to predict optimal crops and offers detailed agricultural insights to enhance farming practices.
 
-#Crop Prediction:
-
+Crop Prediction:
 Inputs include Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, and Rainfall.
 Predicts the best crop using a trained machine learning model.
 
-#Detailed Agricultural Insights:
-
+Detailed Agricultural Insights:
 Integrates with AI models to provide guidance on:
 Cultivation processes.
 Fertilizer recommendations.
