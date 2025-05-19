@@ -1,6 +1,5 @@
 # Crop Recommendation System 🌱
 
-## 
 Welcome to the **Crop Recommendation System**! This application provides intelligent and data-driven recommendations for the most suitable crops to cultivate based on environmental and soil parameters. By leveraging machine learning models and advanced data preprocessing techniques, it predicts the best crops for your farming environment, helping optimize crop selection and improve agricultural practices. Whether you’re a farmer, researcher, or agricultural enthusiast, this tool can offer valuable insights into farming best practices.
 
 ### 🚀 **Built for AI HACKDAYS**
