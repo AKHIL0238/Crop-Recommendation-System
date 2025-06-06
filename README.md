@@ -91,10 +91,8 @@ The machine learning model is trained on data from **arid regions**, where rainf
 ---
 
 
-## Team Name
 
-**Access Denied** 🚀
 ## Team Members
-** Akhil **
-** Abhiram **
-** Sai Krishna **
+
+** M Rajender **
+** Sri Harsha **
