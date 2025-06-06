@@ -95,4 +95,4 @@ The machine learning model is trained on data from **arid regions**, where rainf
 ## Team Members
 
 ** M Rajender **
-** Sri Harsha **
+** A Sri Harsha **
