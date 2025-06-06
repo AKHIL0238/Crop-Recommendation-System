@@ -2,7 +2,7 @@
 
 Welcome to the **Crop Recommendation System**! This application provides intelligent and data-driven recommendations for the most suitable crops to cultivate based on environmental and soil parameters. By leveraging machine learning models and advanced data preprocessing techniques, it predicts the best crops for your farming environment, helping optimize crop selection and improve agricultural practices. Whether you’re a farmer, researcher, or agricultural enthusiast, this tool can offer valuable insights into farming best practices.
 
-###🚀 Built for the Cantilever Summer Internship Program
+#🚀 Built for the Cantilever Summer Internship Program
 This project was developed as part of the Cantilever Summer Internship Program to demonstrate the power of machine learning in agriculture. The goal was to create a tool that combines data science, AI, and agriculture to provide practical solutions for farmers in regions with specific environmental constraints.
 
 ---
